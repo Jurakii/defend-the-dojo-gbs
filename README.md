@@ -1,4 +1,4 @@
- 
+ info.setScore(0)
 
 
 > Open this page at [https://jurakii.github.io/defend-the-dojo-gbs/](https://jurakii.github.io/defend-the-dojo-gbs/)
